@@ -32,6 +32,6 @@ chmod +x monitor.sh
 - 以下のコマンドを実行し、スクリプトを定期実行する
 
 ```bash
-watch -m 2 -t ./monitor.sh
+watch -n 2 -t ./monitor.sh
 ```
 
